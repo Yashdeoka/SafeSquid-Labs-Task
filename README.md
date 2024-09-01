@@ -1,4 +1,4 @@
-# Linux Server Security Audit Script
+# Linux Server All_Security_Check_Script.sh
 
 This script is designed to perform various security checks on a Linux server. It checks file permissions, service statuses, firewall rules, SSH configurations, security updates, and logs for suspicious activities.
 
